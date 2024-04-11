@@ -1,2 +1,2 @@
-# Physik-Model-simulation
-This is a summeration for my experience in Computer Simulation
+# Physics-Model-Simulation
+This is a summary of my experience with physical model simulations.
